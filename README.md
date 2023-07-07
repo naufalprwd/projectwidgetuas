@@ -1,4 +1,6 @@
 # project-uas
+NAMA: Muhammad Naufal Imam Purwadinata
+NPM: 213510378
 
 ## Project setup
 ```
